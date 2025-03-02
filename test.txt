@@ -2,3 +2,4 @@ hello world
 This is a test for dev branch.
 this is a modify in learn_git dir.
 this is a test for --no-ff.
+This is a simple test for tag.
